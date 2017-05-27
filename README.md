@@ -1,7 +1,9 @@
-##Passed All Test Cases
-![image](assets/img)
+## Passed All Test Cases
+![image](img.jpg)
+
 This repo contains my solutions to problems on online coding platforms like
-*CodeChef
-*HackerRank
-*HackerEarth
-*SPOJ
+
+-CodeChef
+-HackerRank
+-HackerEarth
+-SPOJ
